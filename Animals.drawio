@@ -1,0 +1,76 @@
+<mxfile host="app.diagrams.net" modified="2024-07-08T11:38:21.042Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xp5klgoToGiaXRX83a8W" version="24.6.4" type="device">
+  <diagram name="Страница — 1" id="Y26oN_hSy6eY8T9iJDnC">
+    <mxGraphModel dx="794" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Ia7RQLZSHbA2BtSLsI_K-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ia7RQLZSHbA2BtSLsI_K-1" target="Ia7RQLZSHbA2BtSLsI_K-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ia7RQLZSHbA2BtSLsI_K-1" value="Animals" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ia7RQLZSHbA2BtSLsI_K-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ia7RQLZSHbA2BtSLsI_K-1" target="Ia7RQLZSHbA2BtSLsI_K-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="120" as="targetPoint" />
+            <mxPoint x="500" y="70" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="620" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ia7RQLZSHbA2BtSLsI_K-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ia7RQLZSHbA2BtSLsI_K-4" target="Ia7RQLZSHbA2BtSLsI_K-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ia7RQLZSHbA2BtSLsI_K-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ia7RQLZSHbA2BtSLsI_K-4" target="Ia7RQLZSHbA2BtSLsI_K-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ia7RQLZSHbA2BtSLsI_K-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="Ia7RQLZSHbA2BtSLsI_K-4" target="Ia7RQLZSHbA2BtSLsI_K-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ia7RQLZSHbA2BtSLsI_K-4" value="Pets" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ia7RQLZSHbA2BtSLsI_K-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ia7RQLZSHbA2BtSLsI_K-6" target="Ia7RQLZSHbA2BtSLsI_K-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ia7RQLZSHbA2BtSLsI_K-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ia7RQLZSHbA2BtSLsI_K-6" target="Ia7RQLZSHbA2BtSLsI_K-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ia7RQLZSHbA2BtSLsI_K-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Ia7RQLZSHbA2BtSLsI_K-6" target="Ia7RQLZSHbA2BtSLsI_K-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ia7RQLZSHbA2BtSLsI_K-6" value="Pack_animals" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ia7RQLZSHbA2BtSLsI_K-9" value="Dogs" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ia7RQLZSHbA2BtSLsI_K-10" value="Cats" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ia7RQLZSHbA2BtSLsI_K-11" value="Hamsters" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ia7RQLZSHbA2BtSLsI_K-12" value="Horses" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ia7RQLZSHbA2BtSLsI_K-13" value="Camels" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ia7RQLZSHbA2BtSLsI_K-14" value="Donkeys" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
